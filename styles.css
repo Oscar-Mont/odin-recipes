@@ -1,0 +1,17 @@
+html {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    background-color: chocolate;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+.main-list {
+    background-color: burlywood;
+}
